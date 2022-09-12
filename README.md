@@ -4,8 +4,6 @@ Segundo desafio do Capítulo I do curso Ignite da RocketSeat, ReactJS, 2021, rea
 
 Segundo a descrição do desafio pelos criadores do conteúdo:
 
-Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS
-
 Essa será uma aplicação onde o seu principal objetivo é refatorar uma página para listagem de filmes de acordo com gênero. 
 
 A aplicação já está totalmente funcional mas grande parte do seu código está diretamente no arquivo `App.tsx`. Para resolver isso da melhor forma, é necessário dividir a aplicação em **pelo menos** duas partes principais: sidebar e o conteúdo principal que possui o header e a listagem de filmes.
